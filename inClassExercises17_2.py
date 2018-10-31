@@ -5,3 +5,4 @@
 f = open('atis.ex', 'r')
 
 lines = f.readlines()
+
